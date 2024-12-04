@@ -183,6 +183,8 @@ Terima kasih! Program selesai.
 PS C:\Users\Sheila Antica\Documents\pemrogaman praktikum 8>
 ```
 ## Flowcart
+![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
+
 
 
 ## Penjelasan
