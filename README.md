@@ -185,6 +185,7 @@ PS C:\Users\Sheila Antica\Documents\pemrogaman praktikum 8>
 ## Flowcart
 ![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
 
+![flowcart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
 
 
 ## Penjelasan
@@ -229,3 +230,4 @@ Mengabaikan perbedaan kapitalisasi huruf saat mencocokkan nama mahasiswa (menggu
 5. Penggunaan List dan Dictionary
 List (data_mahasiswa) digunakan untuk menyimpan semua data mahasiswa dalam bentuk dictionary.
 Dictionary digunakan untuk menyimpan pasangan nama dan nilai untuk setiap mahasiswa.
+
