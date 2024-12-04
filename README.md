@@ -189,6 +189,7 @@ PS C:\Users\Sheila Antica\Documents\pemrogaman praktikum 8>
 
 
 ## Penjelasan
+1. Class DaftarMahasiswa:
 Class ini menyimpan data mahasiswa dalam bentuk list (data_mahasiswa). Setiap mahasiswa disimpan sebagai dictionary dengan dua kunci: "nama" dan "nilai".
 
 a. Metode __init__(self)
@@ -230,4 +231,3 @@ Mengabaikan perbedaan kapitalisasi huruf saat mencocokkan nama mahasiswa (menggu
 5. Penggunaan List dan Dictionary
 List (data_mahasiswa) digunakan untuk menyimpan semua data mahasiswa dalam bentuk dictionary.
 Dictionary digunakan untuk menyimpan pasangan nama dan nilai untuk setiap mahasiswa.
-
