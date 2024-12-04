@@ -186,8 +186,6 @@ PS C:\Users\Sheila Antica\Documents\pemrogaman praktikum 8>
 ![flowcart](https://github.com/user-attachments/assets/545d762c-546e-4d48-8cb8-19dcc83e4b2d)
 
 ![flowcart ke2 praktikum 8 jpg](https://github.com/user-attachments/assets/d791f6c7-7cde-4b6f-946d-1eeb42a077dc)
-
-
 ## Penjelasan
 1. Class DaftarMahasiswa:
 Class ini menyimpan data mahasiswa dalam bentuk list (data_mahasiswa). Setiap mahasiswa disimpan sebagai dictionary dengan dua kunci: "nama" dan "nilai".
@@ -225,7 +223,6 @@ Pilihan 4 (Ubah data mahasiswa): Meminta pengguna untuk memasukkan nama mahasisw
 Pilihan 5 (Keluar): Keluar dari program dan menampilkan pesan terima kasih.
 4. Validasi Input
 Program juga mencakup validasi input, seperti:
-
 Mengonversi input nilai mahasiswa ke dalam tipe data float untuk memastikan bahwa nilai yang dimasukkan adalah angka.
 Mengabaikan perbedaan kapitalisasi huruf saat mencocokkan nama mahasiswa (menggunakan .lower()).
 5. Penggunaan List dan Dictionary
